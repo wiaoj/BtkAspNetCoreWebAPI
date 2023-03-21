@@ -1,0 +1,16 @@
+2023-03-21 22:21:51.6355 Info Message Template Auto Format enabled
+2023-03-21 22:21:51.6798 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-21 22:21:51.6908 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Bertan\source\repos\Eğitimler\BtkAspNetCoreWebAPI\WebAPI\nlog.config
+2023-03-21 22:22:07.9158 Info AppDomain Shutting down. LogFactory closing...
+2023-03-21 22:22:07.9158 Info LogFactory has been closed.
+2023-03-21 22:26:18.0833 Info Message Template Auto Format enabled
+2023-03-21 22:26:18.1249 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-21 22:26:18.1374 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Bertan\source\repos\Eğitimler\BtkAspNetCoreWebAPI\WebAPI\nlog.config
+2023-03-21 22:26:23.0618 Info Message Template Auto Format enabled
+2023-03-21 22:26:23.1016 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-21 22:26:23.1171 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Bertan\source\repos\Eğitimler\BtkAspNetCoreWebAPI\WebAPI\nlog.config
+2023-03-21 22:26:59.7222 Info Message Template Auto Format enabled
+2023-03-21 22:26:59.7633 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-21 22:26:59.7759 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Bertan\source\repos\Eğitimler\BtkAspNetCoreWebAPI\WebAPI\nlog.config
+2023-03-21 22:27:05.2745 Info AppDomain Shutting down. LogFactory closing...
+2023-03-21 22:27:05.2745 Info LogFactory has been closed.
